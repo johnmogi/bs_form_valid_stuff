@@ -1,0 +1,25 @@
+{
+  "name": "js_form_hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "git": "git add --all && git commit -m",
+    "postgit":"git push --all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmogi/bs_form_valid_stuff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnmogi/bs_form_valid_stuff/issues"
+  },
+  "homepage": "https://github.com/johnmogi/bs_form_valid_stuff#readme"
+}
