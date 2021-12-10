@@ -9,7 +9,9 @@
   "devDependencies": {},
   "scripts": {
     "git": "git add --all && git commit -m",
-    "postgit":"git push --all"
+    "postgit":"git push --all",
+    "dev": "parcel index",
+    "build": "parcel build index"
   },
   "repository": {
     "type": "git",
